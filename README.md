@@ -57,11 +57,6 @@ Team
 City
 
 📸 Dashboard Preview
-https://github.com/mohit-up85/IPL-DASHBOARD-BI/blob/main/111.JPG
-EXAMPLE https://github.com/mohit-up85/IPL-DASHBOARD-BI/blob/main/111.JPG
-
-
-
 (Add your dashboard screenshot here)
 
-Example:
+Example:https://github.com/mohit-up85/IPL-DASHBOARD-BI/blob/main/111.JPG
